@@ -6,7 +6,6 @@
 	Daily Diet
 </h1>
 
-<
 ## 🚀 Projeto
 
 Aplicação de controle de refeições para quem está começando na dieta, que contém as seguintes funcionalidades:
@@ -31,8 +30,6 @@ Aplicação de controle de refeições para quem está começando na dieta, que 
 
 Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/JVjqTgAQ7f4cutwv4H79KV/Daily-Diet/duplicate). É necessário ter conta no [Figma](http://figma.com/) para acessá-lo.
 
-
-## :octocat: Instalação
 
 ### Requisitos
 - [Expo-CLI](https://docs.expo.dev/get-started/installation/)
